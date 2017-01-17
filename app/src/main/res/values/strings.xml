@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scarne-s-Dice</string>
+    <string name="change_players">Changing activity</string>
+    <string name="player_scores">Player scores %d</string>
+
+    <string name="sign_in">Sign in</string>
+</resources>
